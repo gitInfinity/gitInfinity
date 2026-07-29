@@ -1,47 +1,38 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=160&text=Hey%20Everyone!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-</p>
+<div align="center">
 
-<h3 align="center">Let's Connect and have a Chat! 💬</h3>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rouhan+%F0%9F%91%8B;AI%2FML+Engineer+%7C+FAST+NUCES+'26;Building+RAG+Systems+%26+Multi-Agent+AI;Always+shipping+something+new" alt="Typing SVG" />
 
-<p align="center">
-<a href="https://gitinfinity.github.io/my-portfolio/"><img src="https://img.shields.io/static/v1?label=&message=&color=000000&style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="Portfolio"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/mrouhan-aiml"><img src="https://img.shields.io/static/v1?label=&message=&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:rouhancyber123@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/></a>&nbsp;
-<a href="https://github.com/gitInfinity"><img src="https://img.shields.io/static/v1?label=&message=&color=181717&style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/></a>
-</p>
+</div>
 
-<!--
-  🎬 GIF SLOT
-  Grab any gif you like from https://giphy.com or https://tenor.com,
-  copy its direct image address, and drop it into the src below.
-  Recommended size: keep width around 400-500px so it doesn't dominate the page.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=gitInfinity&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%C2%B7%20RAG%20%C2%B7%20Multi-Agent%20Systems&descSize=18&descAlignY=58&stroke=ffffff&strokeWidth=0" />
+</div>
 
-  <p align="center">
-    <img src="PASTE_YOUR_GIF_URL_HERE" width="450"/>
-  </p>
--->
+### 🧠 About Me
+
+I'm **Muhammad Rouhan**, obsessed with building things at the intersection of **AI, RAG pipelines, and multi-agent systems**. When I'm not training models or wrangling vector databases, I'm probably breaking something in production for fun. Bachelors from FAST NUCES, karachi
+
+- 🔭 Currently building **local-first, privacy-respecting AI research tools**
+- 🌱 Deep in **LangChain, multi-agent orchestration, and RAG evaluation**
+- 💬 Ask me about **retrieval-augmented generation, agentic pipelines, or Flutter**
+- ⚡ Fun fact: I'd rather self-host it than subscribe to it
 
 ---
 
-### 👨‍💻 About Me
+### 🛠️ Tech Stack
 
-```yaml
-Name: Muhammad Rouhan
-Handle: "@gitInfinity"
-Role: Student, FAST NUCES — Class of '26
-Focus: [RAG Systems, Multi-Agent AI, Applied ML]
-Currently_Building: Local-first, privacy-respecting AI research tools
-Fun_Fact: "Would rather self-host it than subscribe to it"
-```
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🧰 Tools & Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,kotlin,react,fastapi,docker,sqlite,git,flutter&perline=10" />
-</p>
+</div>
 
 ---
 
@@ -115,22 +106,21 @@ Streamlit-based hospital management system with encrypted patient data (Fernet),
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gitInfinity/gitInfinity/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/gitInfinity/gitInfinity/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation eating my contribution graph"/>
 </p>
-
-<details>
-<summary>⚙️ How this Snake animation is generated (one-time setup)</summary>
-<br>
-
-1. In this repo (`gitInfinity/gitInfinity`), go to **Actions → New workflow → set up a workflow yourself**.
-2. Name the file `main.yml` and paste in the contents of `snake-workflow.yml` (included alongside this README).
-3. Commit the workflow, then go back to **Actions → Generate Snake → Run workflow** to trigger it manually the first time.
-4. It's scheduled to re-run automatically and update the SVG on its own.
-
-</details>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer&animation=fadeIn"/>
-</p>
+### 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrouhan-aiml)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rouhancyber123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gitinfinity.github.io/my-portfolio/)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer&animation=fadeIn" />
+</div>
