@@ -21,18 +21,20 @@ I'm **Muhammad Rouhan**, obsessed with building things at the intersection of **
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**AI / ML & RAG**
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" height="48" alt="LangChain" />&nbsp;<img src="https://img.shields.io/badge/Ollama-000000?style=plastic&logo=ollama&logoColor=white" height="48" alt="Ollama" />&nbsp;<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=plastic&logo=huggingface&logoColor=black" height="48" alt="HuggingFace" />
 
-</div>
+**Databases**
+<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />&nbsp;<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=plastic&logo=chromadb&logoColor=white" height="48" alt="ChromaDB" />&nbsp;<img src="https://img.shields.io/badge/Qdrant-DC244C?style=plastic&logo=qdrant&logoColor=white" height="48" alt="Qdrant" />
+
+**Backend**
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />&nbsp;<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white" height="48" alt="Streamlit" />
+
+**DevOps**
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions" alt="Docker, Git, GitHub Actions" />
 
 ---
 
